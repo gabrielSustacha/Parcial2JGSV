@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\obj\Debug\ClnParcial2Jgsv.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\obj\Debug\ClnParcial2Jgsv.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\bin\Debug\ClnParcial2Jgsv.dll.config
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\bin\Debug\ClnParcial2Jgsv.dll
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\bin\Debug\ClnParcial2Jgsv.pdb
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\bin\Debug\CadParcial2Jgsv.dll
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\bin\Debug\EntityFramework.dll
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\bin\Debug\CadParcial2Jgsv.pdb
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\bin\Debug\CadParcial2Jgsv.dll.config
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\bin\Debug\EntityFramework.xml
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\obj\Debug\ClnParci.455E389F.Up2Date
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\obj\Debug\ClnParcial2Jgsv.dll
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\ClnParcial2Jgsv\obj\Debug\ClnParcial2Jgsv.pdb

@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\CpParcial2Jgsv\obj\Debug\CpParcial2Jgsv.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\CpParcial2Jgsv\obj\Debug\CpParcial2Ajavp.FrmSerie.resources
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\CpParcial2Jgsv\obj\Debug\CpParcial2Jgsv.Properties.Resources.resources
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\CpParcial2Jgsv\obj\Debug\CpParcial2Jgsv.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\CpParcial2Jgsv\obj\Debug\CpParcial2Jgsv.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\parcial2jgsv\Parcial2Jgsv\CpParcial2Jgsv\obj\Debug\CpParcial2Jgsv.FrmSerie.resources
